@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+<img src="https://github.com/chathudilzo/flutter_ui_gym_app/assets/93638679/97e51746-2730-4ff9-b8a4-50014e05a8fd" width=200>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
